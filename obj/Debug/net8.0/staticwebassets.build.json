@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GEpYxvPSrsRLCD+jYKN3lfq5alSZBFbQ9dXvF+4YRn4=",
+  "Source": "Wheres-My-Package-Server",
+  "BasePath": "_content/Wheres-My-Package-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

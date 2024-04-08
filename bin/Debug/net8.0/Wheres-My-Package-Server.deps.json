@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wheres-My-Package-Server/1.0.0": {
+        "runtime": {
+          "Wheres-My-Package-Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wheres-My-Package-Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

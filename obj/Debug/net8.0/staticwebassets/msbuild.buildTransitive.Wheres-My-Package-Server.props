@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Wheres-My-Package-Server.props" />
+</Project>
